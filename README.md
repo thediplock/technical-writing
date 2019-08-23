@@ -21,4 +21,4 @@ Some list:
 * jwdslfkjs
 * jkldsfjklsd
 
-<img src="http://hs.sbcounty.gov/CN/Photo%20Gallery/Sample%20Picture%20-%20Koala.jpg" width="500"/>
+<img src="https://github.com/thediplock/technical-writing/raw/master/Healthcraft_pic.PNG"/>
