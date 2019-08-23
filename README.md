@@ -4,7 +4,7 @@
 
 A trifold brochure I designed for the Algonquin Healchraft team for their final project presentation.  
 
-[Healthcraft Brochure](https://somelink.com)
+[Healthcraft Brochure](https://github.com/thediplock/technical-writing/raw/master/Healthcraft_Brochure.pdf)
 
 ## Sample 2: Kijiji Manual
 
