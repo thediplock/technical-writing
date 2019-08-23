@@ -21,4 +21,4 @@ This slide deck was used alongside an in-class tutorial I led, where I taught so
 
 
 
-<img src="https://github.com/thediplock/technical-writing/raw/master/Healthcraft_pic.PNG"/>
+<img src="https://github.com/thediplock/technical-writing/blob/master/premiere_pic.PNG"/>
