@@ -1,5 +1,14 @@
 # Technical Writing
 
+## Sample 1: Healthcraft Manual
+
+A Manual for the Healthcraft: SuperPole Assembly Press. I was a member of the writing team for this project.  
+
+[Healthcraft Manual](https://github.com/thediplock/technical-writing/raw/master/Healthcraft_Brochure.pdf)
+
+<img width="700" src="https://github.com/thediplock/technical-writing/raw/master/Healthcraft_pic.PNG"/>
+
+
 ## Sample 1: Healthcraft Brochure
 
 A trifold brochure I designed for the Algonquin Healchraft team for their final project presentation.  
