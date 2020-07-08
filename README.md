@@ -4,9 +4,9 @@
 
 A Manual for the Healthcraft: SuperPole Assembly Press. I was a member of the writing team for this project.  
 
-[Healthcraft Manual](https://github.com/thediplock/technical-writing/raw/master/Healthcraft_Brochure.pdf)
+[Healthcraft Manual](https://github.com/thediplock/technical-writing/blob/master/SuperPole-Manual-tareq.pdf)
 
-<img width="700" src="https://github.com/thediplock/technical-writing/raw/master/Healthcraft_pic.PNG"/>
+<img width="700" src="https://github.com/thediplock/technical-writing/blob/master/Capture.PNG"/>
 
 
 ## Sample 1: Healthcraft Brochure
